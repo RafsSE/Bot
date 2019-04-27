@@ -1,0 +1,24 @@
+{
+  "name": "frank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "google-translate-api": "^2.3.0",
+    "mathjs": "^5.7.0",
+    "moment": "^2.24.0",
+    "node-gyp": "^3.8.0",
+    "node-superfetch": "^0.1.9",
+    "random-puppy": "^1.1.0",
+    "superagent": "^4.1.0",
+    "yt-search": "^0.4.1",
+    "ytdl-core": "^0.29.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kygo",
+  "license": "ISC"
+}
